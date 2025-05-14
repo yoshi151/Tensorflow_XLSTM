@@ -8,6 +8,7 @@ This repository contains an implementation of an xLSTM model using TensorFlow. T
 - Flexible `xLSTMBlock` that can use different LSTM cell types.
 - `xLSTMModel` class for building and training the model.
 - Easy to extend and modify for different sequence prediction tasks.
+- Implement according to paper
 
 ## Requirements
 
